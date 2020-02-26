@@ -11,6 +11,12 @@ on Ubuntu (I'm using Ubuntu 19.10):
 
 `$ python3.6 -m venv venv`
 
-*  then source to this virtual environment:
+## Running
+
+Source to this virtual environment:
 
 `$ source venv/bin/activate`
+
+Running Script
+
+`$ pyhton thread.py`
